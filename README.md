@@ -1,4 +1,4 @@
-# 🩺 Symptom Checker App
+# 🩺 Symptom Checker
 
 A full-stack healthcare assistant built with the MERN stack and Google Gemini AI. Users can enter symptoms to receive possible medical conditions and precautions. Queries are stored in MongoDB and can be viewed in history.
 
